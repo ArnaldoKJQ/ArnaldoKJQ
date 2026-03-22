@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnaldokjq&show_icons=true&locale=en" alt="arnaldokjq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnaldokjq&" alt="arnaldokjq" /></p>
+
+[![](https://visitcount.itsvg.in/api?id=ArnaldoKJQ&icon=0&color=0)](https://visitcount.itsvg.in)
