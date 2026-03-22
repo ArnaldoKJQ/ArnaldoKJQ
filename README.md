@@ -1,7 +1,10 @@
 <!-- Banner section -->
 <h1 align="center">Hi 👋, I'm Arnaldo <br><img src="https://komarev.com/ghpvc/?username=arnaldokjq&label=Profile%20views&color=0e75b6&style=plastic" /></h1>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&width=500&lines=Interested+in+breaking+%26+rebuilding;Software+System+Developer;Always+learning+new+things" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=8000&center=true&vCenter=true&width=500&lines=Interested+in+breaking+%26+rebuilding;Software+System+Developer;Always+learning+new+things" />
 </p>
+
+<!-- <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&width=500&lines=Interested+in+breaking+%26+rebuilding;Software+System+Developer;Always+learning+new+things" />
+</p> -->
 
 ---
 
