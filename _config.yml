@@ -1,5 +1,46 @@
+# Site Info
 title: Arnaldo Koo Jia Quan
-logo: /assets/img/headshot.jpg
-description: hello-world
-show_downloads: true
+description: Personal Portfolio - Software Developer & Lifelong Learner
+logo: /assets/img/headshot-small.jpg  # Use a smaller/cropped version for compact display
+email: arnaldokoo@gmail.com
+
+# Theme
 theme: jekyll-theme-minimal
+show_downloads: true  # Adds download buttons if theme supports it
+
+# Site URLs
+url: "https://arnaldokjq.github.io"  # Base URL of your site
+baseurl: ""  # Leave empty if not in a subdirectory
+
+# Navigation menu
+navigation:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: Publications
+    url: /publications/
+  - title: Certifications
+    url: /certifications/
+  - title: Contact
+    url: /contact/
+
+# Social Links
+social_links:
+  github: https://github.com/arnaldokjq
+  linkedin: https://linkedin.com/in/arnaldokjq
+  portfolio: https://arnaldokjq.github.io/ArnaldoKJQ/
+
+# Plugins
+plugins:
+  - jekyll-feed          # Adds RSS feed
+  - jekyll-seo-tag       # Improves SEO
+  - jekyll-sitemap       # Generates sitemap.xml
+
+# Markdown / Syntax Highlighting
+markdown: kramdown
+highlighter: rouge
+
+# Custom CSS (for smaller circular headshot, adjust as needed)
+css:
+  - /assets/css/custom.css
