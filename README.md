@@ -1,5 +1,5 @@
 <!-- Banner section -->
-<h1 align="center">Hi 👋, I'm Arnaldo</h1><img src="https://komarev.com/ghpvc/?username=arnaldokjq&label=Profile%20views&color=0e75b6&style=flat" />
+<h1 align="center">Hi 👋, I'm Arnaldo <br><img src="https://komarev.com/ghpvc/?username=arnaldokjq&label=Profile%20views&color=0e75b6&style=flat" /></h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Interested+in+breaking+%26+rebuilding;Software+System+Developer;Always+learning+new+things" />
 </p>
 
