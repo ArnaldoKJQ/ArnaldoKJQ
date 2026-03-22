@@ -12,7 +12,7 @@
 👨‍💻 Projects (Hello World) 
 <a href="https://github.com/arnaldokjq">Github</a><br>
 
-📫 How to reach me:
+📫 Contacts:
 📧 <a href="mailto:arnaldokoo@gmail.com?subject=Hello%20Arnaldo&body=Hi%20Arnaldo,%0A%0AI%20would%20like%20to%20connect%20with%20you.">Email</a> | 
 💼 <a href="https://linkedin.com/in/arnaldokjq">LinkedIn</a> |
 🌐 <a href="https://arnaldokjq.github.io/ArnaldoKJQ/">Portfolio</a>
