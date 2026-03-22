@@ -3,15 +3,11 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=8000&center=true&vCenter=true&width=500&lines=Interested+in+breaking+%26+rebuilding;Software+System+Developer;Always+learning+new+things" />
 </p>
 
-<!-- <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&width=500&lines=Interested+in+breaking+%26+rebuilding;Software+System+Developer;Always+learning+new+things" />
-</p> -->
-
 ---
 
 <div align="left">
 
-👨‍💻 Projects (Hello World) 
-<a href="https://github.com/arnaldokjq">Github</a><br>
+👨‍💻 Projects <a href="https://github.com/arnaldokjq">Hello, World!</a><br>
 
 📫 Contacts:
 📧 <a href="mailto:arnaldokoo@gmail.com?subject=Hello%20Arnaldo&body=Hi%20Arnaldo,%0A%0AI%20would%20like%20to%20connect%20with%20you.">Email</a> | 
