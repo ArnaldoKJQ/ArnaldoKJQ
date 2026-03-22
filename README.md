@@ -2,9 +2,9 @@
 <h3 align="center">Interested in breaking & rebuilding</h3>
 
 [comment]: <> (Banner section)
-- 🔭 I’m currently working on [privacy_blur-whatsapp_extension](https://github.com/ArnaldoKJQ/privacy_blur-whatsapp_extension)
-- 👨‍💻 All of my projects are available at [Github](https://github.com/ArnaldoKJQ)
-- 📫 How to reach me **arnaldokoo@gmail.com** or [Linkedin]([https://github.com/ArnaldoKJQ](https://linkedin.com/in/arnaldokjq))
+- 🔭 I’m currently working on [privacy_blur-whatsapp_extension](https://github.com/qrnaldokjq/privacy_blur-whatsapp_extension)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/arnaldokjq)
+- 📫 How to reach me **arnaldokoo@gmail.com** or [Linkedin](https://linkedin.com/in/arnaldokjq)
 
 [comment]: <> (Language & Tool section) 
 <h3 align="left">Languages and Tools:</h3>
