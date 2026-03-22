@@ -1,5 +1,5 @@
 <!-- Banner section -->
-<h1 align="center">Hi 👋, I'm Arnaldo <br><img src="https://komarev.com/ghpvc/?username=arnaldokjq&label=Profile%20views&color=0e75b6&style=flat" /></h1>
+<h1 align="center">Hi 👋, I'm Arnaldo <br><img src="https://komarev.com/ghpvc/?username=arnaldokjq&label=Profile%20views&color=0e75b6&style=plastic" /></h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Interested+in+breaking+%26+rebuilding;Software+System+Developer;Always+learning+new+things" />
 </p>
 
@@ -70,30 +70,24 @@ Pakistan Journal of Life & Social Sciences, 22(2)<br>
 ---
 
 <!-- Certifications section -->
-<h3>📜 Certifications</h3>
-
+<!-- Certifications section -->
+<h3 align="left">📜 Certifications</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/Cisco-CCNA%20Enterprise%20Networking-blue?style=for-the-badge&logo=cisco"/>
-<img src="https://img.shields.io/badge/Cisco-Switching%2C%20Routing%20%26%20Wireless-blue?style=for-the-badge&logo=cisco"/>
-<br><br>  
-<img src="https://img.shields.io/badge/Cisco-Creating%20Compelling%20Report-blue?style=for-the-badge&logo=cisco"/>
-<img src="https://img.shields.io/badge/Cisco-Computer%20Hardware%20Basics-blue?style=for-the-badge&logo=cisco"/>
-<br><br>
-<img src="https://img.shields.io/badge/Intel-OpenVINO%20Training-lightblue?style=for-the-badge&logo=intel"/>
-<img src="https://img.shields.io/badge/Intel-OpenVINO%20Toolkit%20Training-lightblue?style=for-the-badge&logo=intel"/>
-<br><br>
-<img src="https://img.shields.io/badge/WorldQuant-Workshop-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Appreciation%20%26%20Awareness-MyDIGITAL%20%26%20Intel-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cisco-CCNA%20Enterprise%20Networking-blue?style=plastic&logo=cisco"/>
+<img src="https://img.shields.io/badge/Cisco-Switching%2C%20Routing%20%26%20Wireless-blue?style=plastic&logo=cisco"/>
+<img src="https://img.shields.io/badge/Cisco-Creating%20Compelling%20Report-blue?style=plastic&logo=cisco"/>
+<img src="https://img.shields.io/badge/Cisco-Computer%20Hardware%20Basics-blue?style=plastic&logo=cisco"/>
+<img src="https://img.shields.io/badge/Intel-OpenVINO%20Training-lightblue?style=plastic&logo=intel"/>
+<img src="https://img.shields.io/badge/Intel-OpenVINO%20Toolkit%20Training-lightblue?style=plastic&logo=intel"/>
+<img src="https://img.shields.io/badge/WorldQuant-Workshop-orange?style=plastic"/>
+<img src="https://img.shields.io/badge/AI%20Appreciation%20%26%20Awareness-MyDIGITAL%20%26%20Intel-green?style=plastic"/>
 </p>
-
-</div>
 
 <!-- Languages section -->
 <h3 align="left">🗣 Languages</h3>
-
 <p align="left">
-<img src="https://img.shields.io/badge/English-Fluent-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Malay-Intermediate-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mandarin-Intermediate-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Japanese-Elementary-lightblue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/English-Fluent-brightgreen?style=plastic"/>
+<img src="https://img.shields.io/badge/Malay-Intermediate-yellow?style=plastic"/>
+<img src="https://img.shields.io/badge/Mandarin-Intermediate-yellow?style=plastic"/>
+<img src="https://img.shields.io/badge/Japanese-Elementary-lightblue?style=plastic"/>
 </p>
