@@ -1,0 +1,13 @@
+/* Make site logo/headshot smaller and circular */
+.site-logo img {
+    width: 80px;       /* adjust width */
+    height: 80px;      /* keep square for circle */
+    border-radius: 50%; /* circular shape */
+    object-fit: cover;  /* crop if necessary */
+}
+
+/* Optional: adjust download button or menu spacing */
+a.download {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.9rem;
+}
