@@ -10,7 +10,6 @@ show_downloads: true  # Adds download buttons if theme supports it
 
 # Site URLs
 url: "https://arnaldokjq.github.io"  # Base URL of your site
-baseurl: ""  # Leave empty if not in a subdirectory
 
 # Navigation menu
 navigation:
