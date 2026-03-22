@@ -3,14 +3,8 @@
 
 [comment]: <> (Banner section)
 - 🔭 I’m currently working on [privacy_blur-whatsapp_extension](https://github.com/ArnaldoKJQ/privacy_blur-whatsapp_extension)
-- 👨‍💻 All of my projects are available at [https://github.com/ArnaldoKJQ](https://github.com/ArnaldoKJQ)
-- 📫 How to reach me **arnaldokoo@gmail.com**
-
-[comment]: <> (Socials section)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arnaldokjq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnaldokjq" height="30" width="40" /></a>
-</p>
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ArnaldoKJQ)
+- 📫 How to reach me **arnaldokoo@gmail.com** or [Linkedin]([https://github.com/ArnaldoKJQ](https://linkedin.com/in/arnaldokjq))
 
 [comment]: <> (Language & Tool section) 
 <h3 align="left">Languages and Tools:</h3>
