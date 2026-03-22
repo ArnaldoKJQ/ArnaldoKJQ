@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **arnaldokoo@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ArnaldoKJQ/ArnaldoKJQ](https://github.com/ArnaldoKJQ/ArnaldoKJQ)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arnaldokjq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnaldokjq" height="30" width="40" /></a>
