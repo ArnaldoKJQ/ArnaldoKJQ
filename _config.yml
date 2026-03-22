@@ -5,8 +5,8 @@ logo: /assets/img/headshot.jpg  # Use a smaller/cropped version for compact disp
 email: arnaldokoo@gmail.com
 
 # Theme
-theme: jekyll-theme-minimal
-show_downloads: true  # Adds download buttons if theme supports it
+theme: jekyll-theme-slate
+# show_downloads: true  # Adds download buttons if theme supports it
 
 # Site URLs
 url: "https://arnaldokjq.github.io"  # Base URL of your site
