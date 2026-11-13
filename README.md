@@ -39,9 +39,9 @@
 
 <!-- Stats section -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaldoKJQ&theme=tokyonight&layout=compact" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnaldokjq&theme=tokyonight" height="150"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=arnaldokjq&show_icons=true&theme=tokyonight&locale=en" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnaldokjq&theme=tokyonight" height="150"/>
 </p>
 
 ---
