@@ -1,4 +1,7 @@
 <!-- Banner section -->
+<p align="center">
+  <img src="assets/dog.svg" width="120" alt="Animated dog"/>
+</p>
 <h1 align="center">Hi 👋, I'm Arnaldo <br><img src="https://komarev.com/ghpvc/?username=arnaldokjq&label=Profile%20views&color=0e75b6&style=plastic" /></h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=8000&center=true&vCenter=true&width=500&lines=Interested+in+breaking+%26+rebuilding;Software+System+Developer;Always+learning+new+things" />
 </p>
@@ -68,7 +71,6 @@ Pakistan Journal of Life & Social Sciences, 22(2)<br>
 
 ---
 
-<!-- Certifications section -->
 <!-- Certifications section -->
 <h3 align="left">📜 Certifications</h3>
 <p align="left">
